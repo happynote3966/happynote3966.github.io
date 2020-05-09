@@ -4,5 +4,5 @@ Test
 
 Link Sample
 
-[Diary](https://github.com/happynote3966.github.io/Diary.md)
+[Diary](./Diary.md)
 
