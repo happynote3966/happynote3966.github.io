@@ -1,8 +1,8 @@
-## Welcome to happynote3966.github.io
+# Welcome to happynote3966.github.io
 
 
 [Diary](./Diary.md)
-[Security Memo]
+[Security Memo](./Security.md)
 
 # Project
 (Under Construction)
